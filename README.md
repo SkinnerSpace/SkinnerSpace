@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @SkinnerSpace!
+I am a self-taught Unity game developer and the creator of such games as: Attack on Wendigo (3D FPS), Lighthouse of the Dead (3D rail shooter), Dreamtime Combat (2D action platformer) and many more. On my itch.io page you can find plenty of WebGL game prototypes you can play in your browser. I love participating in game jams and don’t miss an opportunity to create something new.
